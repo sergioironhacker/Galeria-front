@@ -1,0 +1,198 @@
+{
+    "data": [
+        {"ourQualities" : [
+            {
+                "id": 1,
+                "image": "./galeria.png",
+                "title": "Galeria Propia",
+                "description": "Dispongo de una galeria en la ciudad de Segovia donde puedes ver los cuadros en persona" 
+            },
+            {
+                "id": 2,
+                "image": "./paleta.png",
+                "title": "Cuadros a medida",
+                "description": "Elije el tamaño y el diseño y lo creare acorde a tus necesidades" 
+            },
+            {
+                "id": 3,
+                "image": "./envio.png",
+                "title": "Envio y montado",
+                "description": "Envio nacional he internacional y montado en el lugar indicado" 
+            }
+        ],
+        "dishes": [
+            {
+                "id": 1,
+                "image": "./dinner1.jpeg",
+                "title": "ROASTED LAMB RUMP",
+                "category": "Dinner"
+            },
+            {
+                "id": 2,
+                "image": "./dinner2.png",
+                "title": "CITRUS CURED SALMON",
+                "category": "Dinner"
+            },
+            {
+                "id": 3,
+                "image": "./breakfast1.png",
+                "title": "PAN SEARED SEA BASS",
+                "category": "Breakfast"
+            },
+            {
+                "id": 4,
+                "image": "./dinner3.png",
+                "title": "STUFFED STRAWBERRY",
+                "category": "Dinner"
+            },
+            {
+                "id": 5,
+                "image": "./lunch1.png",
+                "title": "BEEF BURGER MEAL",
+                "category": "Lunch"
+            },
+            {
+                "id": 6,
+                "image": "./dinner4.png",
+                "title": "MUSSELS SOUP",
+                "category": "Dinner"
+            },
+            {
+                "id": 7,
+                "image": "./dinner5.png",
+                "title": "ITALIAN SPAGHETTI",
+                "category": "Dinner"
+            },
+            {
+                "id": 8,
+                "image": "./dinner6.png",
+                "title": "GRILLED FISH",
+                "category": "Dinner"
+            },
+            {
+                "id": 8,
+                "image": "./dinner6.png",
+                "title": "GRILLED FISH",
+                "category": "Dinner"
+            },
+            {
+                "id": 8,
+                "image": "./dinner6.png",
+                "title": "GRILLED FISH",
+                "category": "Dinner"
+            },
+            {
+                "id": 8,
+                "image": "./dinner6.png",
+                "title": "GRILLED FISH",
+                "category": "Dinner"
+            },
+            {
+                "id": 8,
+                "image": "./dinner6.png",
+                "title": "GRILLED FISH",
+                "category": "Dinner"
+            }
+        ],
+        "team": [
+            {
+                "id": 1,
+                "image": "./madrid.png",
+                "name": "Sala de exposiciones",
+                "designation": "Madrid"
+            },
+            {
+                "id": 2,
+                "image": "./valladolid.png",
+                "name": "Sala de exposiciones",
+                "designation": "Valladolid"
+            },
+            {
+                "id": 3,
+                "image": "./barcelona.png",
+                "name": "Sala de exposiciones",
+                "designation": "Barcelona"
+            },
+            {
+                "id": 4,
+                "image": "./Acueducto.png",
+                "name": "Sala de exposiciones",
+                "designation": "Segovia"
+            }
+        ],
+        "testimonials": [
+            {
+                "id": 1,
+                "image": "./review1.png",
+                "description": "Morbi nulla nec dui lacus, in. Libero in pretium metus massa. Sodales dignissim vitae mauris varius faucibus. Eleifend dui, non laoreet ac luctus facilisis diam. Enim scelerisque vel at id viverra tellus.",
+                "rating": 4,
+                "userName": "Jane Cooper"
+            },
+            {
+                "id": 2,
+                "image": "./review2.png",
+                "description": "Tortor vel nunc netus pharetra enim, enim dolor mauris in. Sit nam fringilla in egestas. Libero condimentum quis in vulputate adipiscing venenatis augue. Venenatis faucibus.",
+                "rating": 4.5,
+                "userName": "Esther Howard"
+            },
+            {
+                "id": 3,
+                "image": "./review3.png",
+                "description": "Tortor vel nunc netus pharetra enim, enim dolor mauris in. Sit nam fringilla in egestas. Libero condimentum quis in vulputate adipiscing venenatis augue. Venenatis faucibus.",
+                "rating": 5,
+                "userName": "Guy Hawkins"
+            }
+        ],
+        "who_we_are": [
+            {
+                "id": 1,
+                "number": "14",
+                "title": "Premios de pintura"
+            },
+            {
+                "id": 2,
+                "number": "90",
+                "title": "Exposiciones"
+            },
+            {
+                "id": 3,
+                "number": "30",
+                "title": "Años de experiencia"
+            },
+            {
+                "id": 4,
+                "number": "+500",
+                "title": "Obras de arte y esculturas"
+            }
+        ],
+        "navbarLinks": [
+            {
+                "id": 1,
+                "title": "Casa",
+                "link": "heroSection"
+            },
+            {
+                "id": 2,
+                "title": "Acerca de",
+                "link": "about"
+            },
+            {
+                "id": 3,
+                "title": "Servicios",
+                "link": "qualities"
+            },
+            {
+                "id": 4,
+                "title": "Exposiciones",
+                "link": "team"
+            },
+            {
+                "id": 5,
+                "title": "Contacto",
+                "link": "reservation"
+            }
+        ]
+    
+    } 
+    ]
+}
