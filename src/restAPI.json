@@ -80,6 +80,12 @@
                 "image": "./dinner8.png",
                 "title": "GRILLED FISH",
                 "category": "Dinner"
+            },
+            {
+                "id": 8,
+                "image": "./dinner9.png",
+                "title": "GRILLED FISH",
+                "category": "Dinner"
             }
           
         ],
@@ -107,6 +113,30 @@
                 "image": "./Acueducto.png",
                 "name": "Sala de exposiciones",
                 "designation": "Segovia"
+            },
+            {
+                "id": 4,
+                "image": "./newyork.jpeg",
+                "name": "Sala de exposiciones",
+                "designation": "New York"
+            },
+            {
+                "id": 4,
+                "image": "./canada.png",
+                "name": "Sala de exposiciones",
+                "designation": "Canada"
+            },
+            {
+                "id": 4,
+                "image": "./dubai.png",
+                "name": "Sala de exposiciones",
+                "designation": "Dubai"
+            },
+            {
+                "id": 4,
+                "image": "./londres.png",
+                "name": "Sala de exposiciones",
+                "designation": "Londres"
             }
         ],
         "testimonials": [
