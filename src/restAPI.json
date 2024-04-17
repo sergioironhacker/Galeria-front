@@ -23,7 +23,7 @@
         "dishes": [
             {
                 "id": 1,
-                "image": "./dinner1.jpeg",
+                "image": "./dinner1.jpg",
                 "title": "ROASTED LAMB RUMP",
                 "category": "Dinner"
             },
@@ -71,28 +71,17 @@
             },
             {
                 "id": 8,
-                "image": "./dinner6.png",
+                "image": "./dinner7.png",
                 "title": "GRILLED FISH",
                 "category": "Dinner"
             },
             {
                 "id": 8,
-                "image": "./dinner6.png",
-                "title": "GRILLED FISH",
-                "category": "Dinner"
-            },
-            {
-                "id": 8,
-                "image": "./dinner6.png",
-                "title": "GRILLED FISH",
-                "category": "Dinner"
-            },
-            {
-                "id": 8,
-                "image": "./dinner6.png",
+                "image": "./dinner8.png",
                 "title": "GRILLED FISH",
                 "category": "Dinner"
             }
+          
         ],
         "team": [
             {
