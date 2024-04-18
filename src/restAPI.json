@@ -60,7 +60,7 @@
             {
                 "id": 7,
                 "image": "./dinner5.png",
-                "title": "ITALIAN SPAGHETTI",
+                "title": "ITAIAN SPAGHETTI",
                 "category": "Dinner"
             },
             {
@@ -70,23 +70,54 @@
                 "category": "Dinner"
             },
             {
-                "id": 8,
+                "id": 9,
                 "image": "./dinner7.png",
-                "title": "GRILLED FISH",
+                "title": "GILLED FISH",
                 "category": "Dinner"
             },
             {
-                "id": 8,
+                "id": 10,
                 "image": "./dinner8.png",
+                "title": "GRLLED FISH",
+                "category": "Dinner"
+            },
+            {
+                "id": 11,
+                "image": "./dinner9.png",
+                "title": "GRILD FISH",
+                "category": "Dinner"
+            },
+            {
+                "id": 12,
+                "image": "./dinner10.png",
+                "title": "GRILLEDISH",
+                "category": "Dinner"
+            },
+            {
+                "id": 13,
+                "image": "./dinner11.png",
+                "title": "GRILLED FSH",
+                "category": "Dinner"
+            },
+            {
+                "id": 14,
+                "image": "./dinner12.png",
+                "title": "GRILLED FSH",
+                "category": "Dinner"
+            },
+            {
+                "id": 15,
+                "image": "./dinner13.png",
                 "title": "GRILLED FISH",
                 "category": "Dinner"
             },
             {
-                "id": 8,
-                "image": "./dinner9.png",
-                "title": "GRILLED FISH",
+                "id": 16,
+                "image": "./dinner14.png",
+                "title": "GRILLED FIS",
                 "category": "Dinner"
             }
+            
           
         ],
         "team": [
@@ -115,25 +146,25 @@
                 "designation": "Segovia"
             },
             {
-                "id": 4,
+                "id": 5,
                 "image": "./newyork.jpeg",
                 "name": "Sala de exposiciones",
                 "designation": "New York"
             },
             {
-                "id": 4,
+                "id": 6,
                 "image": "./canada.png",
                 "name": "Sala de exposiciones",
                 "designation": "Canada"
             },
             {
-                "id": 4,
+                "id": 7,
                 "image": "./dubai.png",
                 "name": "Sala de exposiciones",
                 "designation": "Dubai"
             },
             {
-                "id": 4,
+                "id": 8,
                 "image": "./londres.png",
                 "name": "Sala de exposiciones",
                 "designation": "Londres"
